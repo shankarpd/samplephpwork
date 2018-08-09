@@ -5,7 +5,7 @@
 <h1>Developing PHP projects</h1>
 
 <?php
-echo "Version: Third final";
+echo "Version: final";
 ?>
 
 </body>
