@@ -6,6 +6,7 @@
 
 <?php
 echo "Version: final";
+echo "Hello World";
 ?>
 
 </body>
